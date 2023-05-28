@@ -35,8 +35,11 @@ python gui.py
 Run `network_monitor.py` with one of the following arguments:
 
 python network_monitor.py -p [ip_address] # Perform ICMP Echo Request
+
 python network_monitor.py -l [ip_address] # Measure RTT
+
 python network_monitor.py -t [ip_address] # Perform Traceroute
+
 
 
 ## Dependencies
