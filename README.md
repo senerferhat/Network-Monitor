@@ -23,12 +23,15 @@ pip install -r requirements.txt
 
 ## Usage
 
-You can run the GUI version of this tool by running `gui.py` or use it from the command line by running `network_monitor.py`.
+You can run the GUI version of this tool by running `start.py` or use it from the command line by running `network_monitor.py`.
 
 ### GUI Usage
 
 Run the following command:
-python gui.py
+python start.py
+
+A graphical user interface will appear. Enter the required information into the input fields and click 
+the buttons to execute each function. Results will be displayed in the text output field.
 
 ### Command Line Usage
 
