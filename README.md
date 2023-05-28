@@ -58,7 +58,11 @@ This project depends on the following Python libraries:
 
 ## License
 
-This project is licensed under the terms of the MIT license.
+
+You can modify this README as per your tool's specifications and additional features that you may implement.
+
+Remember, the implementation provided here is a basic starting point. Depending on your requirements and the complexity of your network environment, you may need to implement additional error handling, input validation, and support for various network configurations. Good luck with your project!
+
 
 ## Contact
 
